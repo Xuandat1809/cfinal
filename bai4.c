@@ -8,7 +8,8 @@ struct Transaction{
 	int m;
 	char gio[30];
 	char atm[30];
-} a[100005];
+} 
+	a[100005];
 
 int main() {
 	int n = 0;
